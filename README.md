@@ -9,7 +9,9 @@
 - 📫 How to reach me **askjoshi.0102@gmail.com**
 
 - ⚡ Fun fact **I am a photographer**
-
+<p align="center"> <img align="right"
+src="https://github.com/Karthikeya-Joshi/karthikeya-joshi/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="50%" alt="API Giphy logo"/> </p>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/askjoshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="askjoshi_" height="30" width="40" /></a>
