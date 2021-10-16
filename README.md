@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hey 👋, I'm Karthikeya Joshi</h1>
 <h3 align="center">An undergraduate computer science engineer, and a Photography enthusiastic.</h3>
 
